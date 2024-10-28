@@ -27,13 +27,13 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 
 ## 🚀 Skills & Expertise
 ### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) 
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ### 📊 Data Science Libraries
 - **Data Analysis**:
