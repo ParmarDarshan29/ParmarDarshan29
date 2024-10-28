@@ -3,9 +3,10 @@
 🔭 **Currently Working On:**  
 Whatever the mysterious "mood" decides at 3 AM.
 
-🌱 **Currently Learning:**  
-- A data science project with my team (SDG 14: Impact of Plastic Pollution)
+🌱 **Currently Learning About:**  
+- Data science and AI (exploring the world of intelligent machines)
 - College syllabus (it’s like running a marathon without shoes)
+- Anything tech-related that seems interesting
 
 👯 **Looking to Collaborate On:**  
 Any open-source project! If there’s code and community, count me in.
