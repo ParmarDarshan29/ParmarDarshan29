@@ -1,26 +1,26 @@
 # Welcome to My Profile 👋
 Darshan Parmar (He/Him)
-   Let's grow !! 🌱  
+<br>Let's grow !! 🌱  
 On a journey to innovate, inspire, and connect
 
-![Exploring](https://img.shields.io/badge/-Currently%20Exploring-007ACC?style=flat-square)  
+🧭 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-007ACC?style=flat-square)  
 Building and enhancing projects at the intersection of **data science** and **artificial intelligence**.
 
-![Learning](https://img.shields.io/badge/-Always%20Learning-F39C12?style=flat-square)  
+✍🏻  ![Learning](https://img.shields.io/badge/-Always%20Learning-F39C12?style=flat-square)  
 - <span style="color:#FF6F61">Data Science</span> and <span style="color:#FF6F61">AI</span>, shaping the future of intelligent systems  
 - Engineering fundamentals and real-world applications  
 - Latest trends in technology and innovative tools
 
-![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
+🤝 ![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
 Engaging in open-source projects that bring value to the tech community. Let’s create something impactful together.
 
-![How to connect wth me ](https://img.shields.io/badge/-Always%20Learning-F39C12?style=flat-square)  
+🔗 ![Contact](https://img.shields.io/badge/-Always%20Contact-F39C12?style=flat-square)  
 Let's connect on LinkedIn or send an email—I'm always open to connecting with like-minded professionals.
-- Email : connect.darshanparmar@gmail.com
+- ✉️ Email : connect.darshanparmar@gmail.com
 
 ---
 
-## 💡 About Me  
+## 💫 About Me  
 An engineering student with a deep interest in **AI** and **data science**, dedicated to crafting data-driven solutions and pushing forward the potential of intelligent systems. With a focus on continuous improvement and impactful collaboration, I'm committed to projects that foster growth and innovation.
 
 ---
