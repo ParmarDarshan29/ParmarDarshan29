@@ -1,6 +1,6 @@
 # Welcome to My Profile 👋
 Darshan Parmar (He/Him)
-Let's grow !! 🌱  
+   Let's grow !! 🌱  
 On a journey to innovate, inspire, and connect
 
 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-007ACC?style=flat-square)  
