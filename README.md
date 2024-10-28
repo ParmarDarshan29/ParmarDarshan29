@@ -77,7 +77,7 @@ I’m on a mission to become the AI expert everyone warned you about. I’m also
 
 ## 🌟 Inspiration
 
-![Swami Vivekananda](https://link-to-image.com/swami-vivekananda.jpg)  
+![Swami Vivekananda]([https://link-to-image.com/swami-vivekananda.jpg](https://pin.it/5OVQYwS0T))  
 *“Arise, awake, and stop not till the goal is reached.”*  
 – Swami Vivekananda
 
