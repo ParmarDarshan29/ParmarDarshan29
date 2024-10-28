@@ -16,10 +16,10 @@ Engaging in open-source projects that bring value to the tech community. Let’s
 ![Knowledge](https://img.shields.io/badge/-Seeking%20Knowledge%20In-3498db?style=flat-square)  
 Advanced data modeling, innovative frameworks, and deploying AI applications in practical settings.
 
-** 📩 How to Reach Me:**  
+**📩 How to Reach Me:**  
 Let's connect on LinkedIn or send an email—I'm always open to connecting with like-minded professionals.
 
-**👤Pronouns:**  
+**👤 Pronouns:**  
 He/Him
 
 ---
