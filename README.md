@@ -14,7 +14,7 @@ Building and enhancing projects at the intersection of **data science** and **ar
 🤝 ![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
 Engaging in open-source projects that bring value to the tech community. Let’s create something impactful together.
 
-🔗 ![How to connect with me ](https://img.shields.io/badge/-How%20to%20connect%20with%me-F39C12?style=flat-square)  
+🔗 ![me](https://img.shields.io/badge/-How%20to%20connect%20with%me-F39C12?style=flat-square)  
 Let's connect on LinkedIn or send an email—I'm always open to connecting with like-minded professionals.
 - ✉️ Email : connect.darshanparmar@gmail.com
 
