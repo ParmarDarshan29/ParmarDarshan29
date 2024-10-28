@@ -1,24 +1,42 @@
-🔭 I’m currently working on everything my brain decides is a “great idea” at 3 AM.
-🌱 I’m learning so many things, probably too many things:
-    - A data science project (I promised my group I'd help)
-    - College syllabus (it’s a rollercoaster and I didn’t sign up)
-👯 I’m looking to collaborate on open-source stuff! If there’s code and community, count me in.
-🤔 I’m looking for help with…uh, honestly? Anything. I love learning random things from people who know random things.
-💬 Ask me about…actually, maybe just message and see where it goes 😄
-📫 How to reach me: Digital carrier pigeon (or DM)
-😄 Pronouns: He/Him
-⚡ Fun fact: I still don’t know what my dream job is, but I’m working towards it anyway.
-💫 About Me: I'm on a mission to become the AI expert everyone warned you about. I have a case of “Do and Overthink” Syndrome.
-Some fun things about me:
-I can’t cook (yet).
-I’m attempting to be a:
-Data Science Explorer
-Python Enthusiast
-AI/Ambition-Aficionado
-GitHub Connoisseur
-Future Expert in All Things Tech
+# Hello there! 👋
 
-<!---
-ParmarDarshan29/ParmarDarshan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **Currently Working On:**  
+Whatever the mysterious "mood" decides at 3 AM.
+
+🌱 **Currently Learning:**  
+- A data science project with my team (SDG 14: Impact of Plastic Pollution)
+- College syllabus (it’s like running a marathon without shoes)
+
+👯 **Looking to Collaborate On:**  
+Any open-source project! If there’s code and community, count me in.
+
+🤔 **Looking for Help With:**  
+Honestly, just about anything. If you know something cool, I’d love to learn it!
+
+💬 **Ask Me About:**  
+Actually…maybe don’t. I might not have an answer. But feel free to chat anyway! 😄
+
+📫 **How to Reach Me:**  
+Send a digital carrier pigeon (or just a DM).
+
+😄 **Pronouns:**  
+He/Him
+
+⚡ **Fun Fact:**  
+I didn’t know what my dream job was, but here I am working toward it anyway!
+
+---
+
+## 💫 About Me
+I’m on a mission to become the AI expert everyone warned you about. I’m also slightly afflicted by **Do and Overthink Syndrome**. 
+
+Some extra facts:
+- I can’t cook…yet.
+- I’m trying to become:
+  - A Data Science Explorer 🌊
+  - A Python Enthusiast 🐍
+  - An AI/Ambition Aficionado 🤖
+  - A GitHub Connoisseur 💻
+  - Future Expert in All Things Tech 🔮
+
+Thanks for stopping by! 👋
