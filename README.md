@@ -1,11 +1,11 @@
 # Welcome to My Profile 👋
-Let's grow !! 🌱
-On journey to innovate, inspire and connect
+Let's grow !! 🌱  
+On a journey to innovate, inspire, and connect
 
-![Exploring](https://img.shields.io/badge/-Currently%20Exploring-1f78b4?style=flat-square)  
+![Exploring](https://img.shields.io/badge/-Currently%20Exploring-007ACC?style=flat-square)  
 Building and enhancing projects at the intersection of **data science** and **artificial intelligence**.
 
- ![Learning](https://img.shields.io/badge/-Always%20Learning-f39c12?style=flat-square)  
+![Learning](https://img.shields.io/badge/-Always%20Learning-F39C12?style=flat-square)  
 - <span style="color:#FF6F61">Data Science</span> and <span style="color:#FF6F61">AI</span>, shaping the future of intelligent systems  
 - Engineering fundamentals and real-world applications  
 - Latest trends in technology and innovative tools
@@ -13,7 +13,7 @@ Building and enhancing projects at the intersection of **data science** and **ar
 ![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
 Engaging in open-source projects that bring value to the tech community. Let’s create something impactful together.
 
-🔧 ![Learning More About](https://img.shields.io/badge/-Seeking%20Knowledge%20In-3498db?style=flat-square)  
+🔧 ![Knowledge](https://img.shields.io/badge/-Seeking%20Knowledge%20In-3498db?style=flat-square)  
 Advanced data modeling, innovative frameworks, and deploying AI applications in practical settings.
 
 <span style="color:#3498db">**Ask Me About:**</span>  
@@ -44,14 +44,24 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ### 📊 Data Science Libraries
-- **Data Analysis**: ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-- **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
-- **Machine Learning**: ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FF6F61?style=flat-square)  
+- ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FFA500?style=flat-square)  
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-28A745?style=flat-square)  
+- ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 
 ### 🛠️ Tools & Technologies
-- **Development**: ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-- **Data Handling & Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Development](https://img.shields.io/badge/-Development-007ACC?style=flat-square)  
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+![Version Control](https://img.shields.io/badge/-Version%20Control-F05032?style=flat-square)  
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+![Data Handling](https://img.shields.io/badge/-Data%20Handling-FF6F61?style=flat-square)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 ---
 
