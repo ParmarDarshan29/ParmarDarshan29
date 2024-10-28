@@ -2,27 +2,27 @@
 Let's grow !! 🌱
 On journey to innovate, inspire and connect
 
-🔍 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-1f78b4?style=flat-square)  
+![Exploring](https://img.shields.io/badge/-Currently%20Exploring-1f78b4?style=flat-square)  
 Building and enhancing projects at the intersection of **data science** and **artificial intelligence**.
 
-📘 ![Learning](https://img.shields.io/badge/-Always%20Learning-f39c12?style=flat-square)  
+ ![Learning](https://img.shields.io/badge/-Always%20Learning-f39c12?style=flat-square)  
 - <span style="color:#FF6F61">Data Science</span> and <span style="color:#FF6F61">AI</span>, shaping the future of intelligent systems  
 - Engineering fundamentals and real-world applications  
 - Latest trends in technology and innovative tools
 
-🤝 ![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
+![Collaboration](https://img.shields.io/badge/-Open%20to%20Collaboration-27ae60?style=flat-square)  
 Engaging in open-source projects that bring value to the tech community. Let’s create something impactful together.
 
 🔧 ![Learning More About](https://img.shields.io/badge/-Seeking%20Knowledge%20In-3498db?style=flat-square)  
 Advanced data modeling, innovative frameworks, and deploying AI applications in practical settings.
 
-💼 <span style="color:#3498db">**Ask Me About:**</span>  
+<span style="color:#3498db">**Ask Me About:**</span>  
 All things **Data Science** and **AI**, along with the tools that support technical innovation. Open to sharing knowledge and discussing ideas.
 
-📩 **How to Reach Me:**  
+**How to Reach Me:**  
 Let's connect on LinkedIn or send an email—I'm always open to connecting with like-minded professionals.
 
-👤 **Pronouns:**  
+**Pronouns:**  
 He/Him
 
 ---
