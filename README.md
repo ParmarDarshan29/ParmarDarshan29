@@ -87,3 +87,9 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 - 🌍 Passionate about using tech to drive positive impact
 
 Thank you for visiting my profile. Let’s connect and create something meaningful together!
+
+---
+
+## Profile Views Monitoring
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
