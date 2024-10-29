@@ -25,7 +25,7 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 
 ---
 
-## 🚀 Skills & Expertise
+## 🚀 Skills 
 ### 🖥️ Programming Languages
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
