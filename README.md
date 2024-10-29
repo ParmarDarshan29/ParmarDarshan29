@@ -90,6 +90,6 @@ Thank you for visiting my profile. Let’s connect and create something meaningf
 
 ---
 
-## Profile Views Monitoring
+# Profile Views Monitoring
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+![Profile Views](https://
