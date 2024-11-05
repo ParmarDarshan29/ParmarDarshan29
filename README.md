@@ -1,8 +1,3 @@
-# Welcome to My Profile 👋
-Darshan Parmar (He/Him)
-<br>Let's grow !! 🌱  
-On a journey to innovate, inspire, and connect
-
 🧭 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-3F51B5?style=flat-square)  
 Building and enhancing projects at the intersection of **data science** and **artificial intelligence**.
 
