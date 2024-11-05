@@ -1,3 +1,7 @@
+
+![Welcome Thumbnail]()
+
+
 🧭 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-3F51B5?style=flat-square)  
 Building and enhancing projects at the intersection of **data science** and **artificial intelligence**.
 
