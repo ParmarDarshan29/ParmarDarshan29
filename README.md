@@ -74,6 +74,8 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Darshanparmar29)
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ParmarDarshan29&theme=gruvbox)
+---
 ## Quick Facts
 
 - 🌊 Enthusiastically exploring the realms of data science  
