@@ -75,8 +75,6 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=ParmarDarshan29&color=brightgreen)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ParmarDarshan29&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-![Unique Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ParmarDarshan29&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Unique%20Visitors&edge_flat=false)
 
 ---
 ## Quick Facts
@@ -87,5 +85,5 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 - 🌍 Passionate about using tech to drive positive impact
 
 ---
-[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=W1lTrc0_QPHoZfmswrOm7I_jnN5YBAWcKI48l_aKBwQ&co=000000&ct=79ff00)](https://clustrmaps.com/site/1c21s)
+[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=W1lTrc0_QPHoZfmswrOm7I_jnN5YBAWcKI48l_aKBwQ&co=000000&ct=79ff00)](https://clustrmaps.com/site/1c21s)
 
