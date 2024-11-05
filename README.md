@@ -75,6 +75,7 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=ParmarDarshan29&color=brightgreen)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ParmarDarshan29&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 ## Quick Facts
