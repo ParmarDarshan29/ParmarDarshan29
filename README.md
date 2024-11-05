@@ -74,7 +74,17 @@ An engineering student with a deep interest in **AI** and **data science**, dedi
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Darshanparmar29)
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ParmarDarshan29&theme=gruvbox)
+## 📅 Commit Habits and Activity Tracker
+
+**Commit Activity By Time of Day**
+![Commit Activity](https://github.com/anuraghazra/github-readme-stats)
+
+**Language Activity**
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarDarshan29&layout=compact&theme=dark)
+
+**Contributions Calendar**
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ParmarDarshan29&theme=react-dark)
+
 ---
 ## Quick Facts
 
