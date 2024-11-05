@@ -1,5 +1,5 @@
 
-![Welcome Thumbnail](https://github.com/ParmarDarshan29/ParmarDarshan29/blob/main/Brown%20Paper%20Motivation%20Quote%20Linked%20in%20Banner.png)
+![Welcome Thumbnail](https://github.com/ParmarDarshan29/ParmarDarshan29/blob/main/Brown%20Paper%20Motivation%20Quote%20Linked%20in%20Banner%20(1).png)
 
 
 🧭 ![Exploring](https://img.shields.io/badge/-Currently%20Exploring-3F51B5?style=flat-square)  
