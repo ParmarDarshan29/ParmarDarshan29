@@ -1,5 +1,5 @@
 # Let's Grow 🌱  
 **Darshan Parmar**
 
-![Animation](demo.gif)
+![Animation](pattern.gif.gif)
 
