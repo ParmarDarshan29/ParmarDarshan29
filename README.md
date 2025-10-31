@@ -18,8 +18,6 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 
 ## ![Skills](https://img.shields.io/badge/Technical%20Skills-0D47A1?style=flat-square&logo=github&logoColor=white)
 
-Here is a compact grid of key skills (4 columns) for a tidy, square-like layout.
-
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) |
 | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-EC6523?logo=xgboost&logoColor=white) | ![LightGBM](https://img.shields.io/badge/LightGBM-019875?logo=lightgbm&logoColor=white) | ![ETL](https://img.shields.io/badge/ETL%20Concepts-1E90FF?logoColor=white) |
