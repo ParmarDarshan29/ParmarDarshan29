@@ -76,7 +76,7 @@ My focus lies in **medical imaging**, **signal processing**, and **XAI**, where 
 
 <div align="center">
 
-### 🌱 Let's Grow  
+###  Let's Grow 🌱 
 **_Building the future, one model at a time._**
 
 ![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer)
