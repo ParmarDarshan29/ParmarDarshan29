@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0FF0FC&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Researcher;Medical+Imaging+%26+Explainable+AI;Turning+Data+Into+Trustworthy+Insights)
 
-![Animation](animation.gif)
+![Animation](Aesthetic_AI_ML_Video_Generation.mp4)
 
 ---
 
