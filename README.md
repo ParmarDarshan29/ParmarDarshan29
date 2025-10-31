@@ -6,10 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0FF0FC&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Researcher;Medical+Imaging+%26+Explainable+AI;Turning+Data+Into+Trustworthy+Insights)
 
-<video controls width="720">
-  <source src="Aesthetic_AI_ML_Video_Generation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Animation](animation.gif)
 
 ---
 
