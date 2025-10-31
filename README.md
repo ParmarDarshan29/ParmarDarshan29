@@ -1,22 +1,32 @@
-# Hi, I'm Darshan Parmar
+<!-- HEADER -->
+<div align="center">
+
+# 👋 Hi, I'm **Darshan Parmar**  
+### _AI • ML • DL Researcher | Data-Driven Thinker | Ethical Innovator_  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0FF0FC&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Researcher;Medical+Imaging+%26+Explainable+AI;Turning+Data+Into+Trustworthy+Insights)
 
 ![Animation](animation.gif)
 
 ---
 
-![AI ML DL Researcher Badge](https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20DL%20Researcher-0D1117?style=flat-square&logo=github&logoColor=0FF0FC)
+![Researcher Badge](https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20DL%20Researcher-0D1117?style=flat-square&logo=github&logoColor=0FF0FC)
+![Profile Views](https://komarev.com/ghpvc/?username=ParmarDarshan29&style=flat-square&color=blueviolet)
+
+</div>
 
 ---
 
-## !About
+## 🌱 About Me  
 
-I'm a curious Computer Engineer who builds practical, human-centered AI — from clean data pipelines to deployed models. I focus on clarity, robustness, and ethical design, exploring areas like medical imaging, signal processing, and explainability along the way.
+I'm a **Computer Engineer** passionate about building **human-centered AI systems** — from clean data pipelines to explainable deployed models.  
+My focus lies in **medical imaging**, **signal processing**, and **XAI**, where I turn **messy data into meaningful insights** that people can trust.  
 
-I enjoy turning messy data into crisp insights and models that people can trust.
+> _"The goal isn’t just intelligence — it’s understanding."_  
 
 ---
 
-## Skills 
+## 🧠 Skills  
 
 
 | | | | |
@@ -32,28 +42,43 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |  |
 
-## Competencies
+## 🎯 Core Competencies
 - Machine Learning & Deep Learning  
 - Data Structures & Algorithms  
-- Model Deployment & Evaluation  
-- Research Ethics  
-- Data Preprocessing & Pipelines  
+- Explainable AI & Ethical Research  
+- Data Preprocessing & Feature Engineering  
+- Model Evaluation & Deployment  
 
 ---
 
-## Contact
-| Platform | Link |
-|-----------|------|
-| **Portfolio** | [ParmarDarshan29.github.io](https://ParmarDarshan29.github.io) |
-| **Email** | connect.darshanparmar@gmail.com |
-| **LinkedIn** | [linkedin.com/in/dte-gecbh-com-darshan-parmar](https://linkedin.com/in/dte-gecbh-com-darshan-parmar) |
-| **GitHub** | [github.com/ParmarDarshan29](https://github.com/ParmarDarshan29) |
+## 📊 GitHub Insights  
 
----
 <div align="center">
-Let's Grow 🌱
 
-*Building the future, one model at a time.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParmarDarshan29&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarDarshan29&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParmarDarshan29&theme=radical)
+
 </div>
 
 ---
+
+## 🔗 Connect With Me  
+
+| Platform | Link |
+|-----------|------|
+| 🌐 **Portfolio** | [ParmarDarshan29.github.io](https://ParmarDarshan29.github.io) |
+| 💼 **LinkedIn** | [linkedin.com/in/dte-gecbh-com-darshan-parmar](https://linkedin.com/in/dte-gecbh-com-darshan-parmar) |
+| 📧 **Email** | connect.darshanparmar@gmail.com |
+| 💻 **GitHub** | [github.com/ParmarDarshan29](https://github.com/ParmarDarshan29) |
+
+---
+
+<div align="center">
+
+### 🌱 Let's Grow  
+**_Building the future, one model at a time._**
+
+![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer)
+
+</div>
