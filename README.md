@@ -8,7 +8,7 @@
 
 ---
 
-## ![About](https://img.shields.io/badge/About%20Me-0D47A1?style=flat-square&logo=github&logoColor=white)
+## !About
 
 I'm a curious Computer Engineer who builds practical, human-centered AI — from clean data pipelines to deployed models. I focus on clarity, robustness, and ethical design, exploring areas like medical imaging, signal processing, and explainability along the way.
 
@@ -16,7 +16,7 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 
 ---
 
-## ![Skills](https://img.shields.io/badge/Technical%20Skills-0D47A1?style=flat-square&logo=github&logoColor=white)
+## Skills 
 
 
 | | | | |
@@ -32,7 +32,7 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |  |
 
-## ![Core](https://img.shields.io/badge/Competencies-0D47A1?style=flat-square&logo=github&logoColor=white)
+## Competencies
 - Machine Learning & Deep Learning  
 - Data Structures & Algorithms  
 - Model Deployment & Evaluation  
@@ -41,8 +41,7 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 
 ---
 
-## ![Contact](https://img.shields.io/badge/Contact-0D47A1?style=flat-square&logo=github&logoColor=white)
-
+## Contact
 | Platform | Link |
 |-----------|------|
 | **Portfolio** | [ParmarDarshan29.github.io](https://ParmarDarshan29.github.io) |
