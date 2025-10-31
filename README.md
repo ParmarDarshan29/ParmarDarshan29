@@ -16,11 +16,11 @@ I enjoy turning messy data into crisp insights and models that people can trust.
 
 ---
 
-## Skills  ![Skills](https://img.shields.io/badge/Technical%20Skills-0D47A1?style=flat-square&logo=github&logoColor=white)
+## ![Skills](https://img.shields.io/badge/Technical%20Skills-0D47A1?style=flat-square&logo=github&logoColor=white)
 
 Here is a compact grid of key skills (4 columns) for a tidy, square-like layout.
 
-
+| Programming | Libraries | Frameworks | Tools |
 |---|---|---|---|
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) |
