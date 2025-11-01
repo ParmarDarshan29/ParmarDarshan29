@@ -42,6 +42,7 @@ My focus lies in **medical imaging**, **signal processing**, and **XAI**, where 
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |  |
 
+---
 ## 🎯 Core Competencies
 - Machine Learning & Deep Learning  
 - Data Structures & Algorithms  
