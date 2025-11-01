@@ -50,19 +50,6 @@ My focus lies in **medical imaging**, **signal processing**, and **XAI**, where 
 - Model Evaluation & Deployment  
 
 ---
-
-## 📊 GitHub Insights  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParmarDarshan29&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarDarshan29&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParmarDarshan29&theme=radical)
-
-</div>
-
----
-
 ## 🔗 Connect With Me  
 
 | Platform | Link |
