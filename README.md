@@ -11,7 +11,6 @@
 ---
 
 ![Researcher Badge](https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20DL%20Researcher-0D1117?style=flat-square&logo=github&logoColor=0FF0FC)
-![Profile Views](https://komarev.com/ghpvc/?username=ParmarDarshan29&style=flat-square&color=blueviolet)
 
 </div>
 
