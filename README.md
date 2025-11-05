@@ -4,7 +4,7 @@
 # 👋 Hi, I'm **Darshan Parmar**  
 ### _AI • ML • DL Researcher | Data-Driven Thinker | Ethical Innovator_  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0FF0FC&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+DL+Researcher;Medical+Imaging+%26+Explainable+AI;Turning+Data+Into+Trustworthy+Insights)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%7C+ML+%7C+DL+Researcher+;Turning+Data+into+Trustworthy+Insights;Medical+Imaging+and+Explainable+AI)](https://git.io/typing-svg)
 
 ![Animation](animation.gif)
 
