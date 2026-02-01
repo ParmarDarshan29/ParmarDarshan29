@@ -19,10 +19,10 @@
 
 | Platform | Link |
 |-----------|------|
-| 🌐 **Portfolio** | [ParmarDarshan29.github.io](https://ParmarDarshan29.github.io) |
+| 🌐 **Portfolio** | [darshan-cpp.github.io](https://darshan-cpp.github.io) |
 | 💼 **LinkedIn** | [linkedin.com/in/dte-gecbh-com-darshan-parmar](https://linkedin.com/in/dte-gecbh-com-darshan-parmar) |
 | 📧 **Email** | connect.darshanparmar@gmail.com |
-| 💻 **GitHub** | [github.com/ParmarDarshan29](https://github.com/ParmarDarshan29) |
+| 💻 **GitHub** | [github.com/darshan-cpp](https://github.com/darshan-cpp) |
 
 ---
 
